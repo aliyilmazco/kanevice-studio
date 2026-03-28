@@ -15,9 +15,11 @@ A visual cross-stitch pattern layout planner for fabric, prayer rugs, and embroi
 
 ---
 
-## Demo
+## Screenshot
 
-**[https://kanevice.aliyilmaz.co/](https://kanevice.aliyilmaz.co/)**
+<div align="center">
+<img src="public/screenshot.png" alt="Kanavice Studio Screenshot" width="100%" />
+</div>
 
 ## About
 
