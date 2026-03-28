@@ -1,5 +1,4 @@
 <div align="center">
-<img width="1200" height="475" alt="Kanavice Studio Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 
 # Kanavice Studio
 
@@ -10,7 +9,7 @@ A visual cross-stitch pattern layout planner for fabric, prayer rugs, and embroi
 [![React](https://img.shields.io/badge/React-19-61dafb?logo=react&logoColor=white)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-6-646cff?logo=vite&logoColor=white)](https://vitejs.dev/)
 
-[Demo](#demo) | [Features](#features) | [Getting Started](#getting-started) | [Contributing](CONTRIBUTING.md)
+[Live Demo](https://kanevice.aliyilmaz.co/) | [Features](#features) | [Getting Started](#getting-started) | [Contributing](CONTRIBUTING.md)
 
 </div>
 
@@ -18,13 +17,7 @@ A visual cross-stitch pattern layout planner for fabric, prayer rugs, and embroi
 
 ## Demo
 
-> **[YOUR_DEMO_URL]** <!-- Replace with your live demo URL -->
-
-## Screenshot
-
-<div align="center">
-<img src="public/screenshot.png" alt="Kanavice Studio Screenshot" width="100%" />
-</div>
+**[https://kanevice.aliyilmaz.co/](https://kanevice.aliyilmaz.co/)**
 
 ## About
 
