@@ -88,8 +88,8 @@ The application is designed for the Turkish cross-stitch community. The UI is in
 
 ```bash
 # Clone the repository
-git clone https://github.com/aliyilmazco/kanevice-editor.git
-cd kanevice-editor
+git clone https://github.com/aliyilmazco/kanavice-studio.git
+cd kanavice-studio
 
 # Install dependencies
 npm install
@@ -166,7 +166,7 @@ npm run preview   # Preview the production build locally
 ## Project Structure
 
 ```
-kanevice-editor/
+kanavice-studio/
 ├── App.tsx                  # Main application component
 ├── index.tsx                # Entry point
 ├── index.html               # HTML template

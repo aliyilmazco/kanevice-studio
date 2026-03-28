@@ -6,7 +6,7 @@ Thank you for your interest in contributing! This guide will help you get starte
 
 ### Reporting Bugs
 
-1. Check [existing issues](https://github.com/aliyilmazco/kanevice-editor/issues) to avoid duplicates
+1. Check [existing issues](https://github.com/aliyilmazco/kanavice-studio/issues) to avoid duplicates
 2. Open a new issue using the **Bug Report** template
 3. Include steps to reproduce, expected vs. actual behavior, and browser info
 
@@ -37,8 +37,8 @@ Thank you for your interest in contributing! This guide will help you get starte
 ## Development Setup
 
 ```bash
-git clone https://github.com/<your-username>/kanevice-editor.git
-cd kanevice-editor
+git clone https://github.com/<your-username>/kanavice-studio.git
+cd kanavice-studio
 npm install
 npm run dev
 ```

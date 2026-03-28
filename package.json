@@ -7,11 +7,11 @@
   "author": "Ali Yilmaz",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aliyilmazco/kanevice-editor.git"
+    "url": "https://github.com/aliyilmazco/kanavice-studio.git"
   },
-  "homepage": "https://github.com/aliyilmazco/kanevice-editor",
+  "homepage": "https://kanevice.aliyilmaz.co/",
   "bugs": {
-    "url": "https://github.com/aliyilmazco/kanevice-editor/issues"
+    "url": "https://github.com/aliyilmazco/kanavice-studio/issues"
   },
   "keywords": [
     "cross-stitch",
